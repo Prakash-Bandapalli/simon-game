@@ -14,4 +14,4 @@ Simon Game Rules:
 
 7.Keep Going: The game will keep getting more challenging as it adds more buttons to the sequence. See how far you can go without making a mistake.
 
-8.That's it! Enjoy the Simon game and test your memory and reflexes. Good luck!
+That's it! Enjoy the Simon game and test your memory and reflexes. Good luck!
